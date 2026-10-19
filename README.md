@@ -1,4 +1,4 @@
-#  ENHYPEN Photobooth
+#  EVERGENE Photobooth
 
 A fun, interactive, ENHYPEN-themed photobooth web application built with React. Choose your favorite member's frame, capture a photo using your camera or upload one from your device, and decorate your pictures with stickers!
 
@@ -30,7 +30,7 @@ A fun, interactive, ENHYPEN-themed photobooth web application built with React. 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/mirzatabeer4-commits/enhypen-photobooth.git
+   git clone https://github.com/mirzatabeer4-commits/Evergene-Photobooth.git
    ```
 
 2. Navigate to the project folder:
